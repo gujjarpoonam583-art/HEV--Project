@@ -35,3 +35,6 @@ B.Tech Electrical Engineering
 
 - Total Power Output = 140 kW
 - Power Flow Model Successfully Simulated in MATLAB/Simulink
+## Conclusion
+
+The Hybrid Electric Vehicle (HEV) power flow model was successfully developed and simulated using MATLAB/Simulink. The engine power (60 kW) and motor power (80 kW) were combined to achieve a total output power of 140 kW. The model demonstrates the basic power distribution concept of a parallel hybrid electric vehicle.
