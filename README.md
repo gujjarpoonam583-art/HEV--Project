@@ -19,3 +19,19 @@ Parallel Hybrid Electric Vehicle (HEV)
 ## Author
 Poonam
 B.Tech Electrical Engineering
+## Component Specifications
+
+- Engine Power: 60 kW
+- Motor Power: 80 kW
+- Battery Capacity: 20 kWh
+- Motor Efficiency: 90%
+
+## Power Sources
+
+- Internal Combustion Engine (ICE)
+- Electric Motor
+
+## Simulation Result
+
+- Total Power Output = 140 kW
+- Power Flow Model Successfully Simulated in MATLAB/Simulink
