@@ -1,2 +1,21 @@
-# HEV--Project
-Hybrid Electric Vehicle Power Flow Design using MATLAB/Simulink
+# Hybrid Electric Vehicle (HEV) Power Flow Design
+## Project Overview
+This project focuses on the design and simulation of a Hybrid Electric Vehicle (HEV) power flow system using MATLAB/Simulink.
+## Objectives
+- Define Hybrid Vehicle Configuration
+- Identify Power Sources
+- Collect Component Specifications
+- Create Power Flow Block Diagram
+- Analyze Energy Flow
+- Simulate Power Split and Fuel Consumption
+- Optimize System Performance
+## Tools Used
+- MATLAB
+- Simulink
+- Simscape Electrical
+- Powertrain Toolbox
+## Configuration Selected
+Parallel Hybrid Electric Vehicle (HEV)
+## Author
+Poonam
+B.Tech Electrical Engineering
