@@ -27,6 +27,40 @@ B.Tech Electrical Engineering
 - Motor Efficiency: 90%
 
 ## Power Sources
+## Assumptions
+
+- Engine Power = 60 kW
+- Motor Power = 80 kW
+- Battery Capacity = 20 kWh
+- Motor Efficiency = 90%
+- Constant operating conditions assumed
+
+## Energy Flow Analysis
+
+- Engine supplies 60 kW power.
+- Electric motor supplies 80 kW power.
+- Combined output power equals 140 kW.
+- Power is distributed through a parallel HEV architecture.
+
+## Block Diagram Description
+
+The HEV power flow model consists of an Internal Combustion Engine (ICE), Electric Motor, Power Combiner, and Output Display. The engine and motor outputs are combined to generate total vehicle power.
+
+## Key Features
+
+- Simple HEV Power Flow Model
+- Parallel Hybrid Configuration
+- MATLAB/Simulink Based Design
+- Easy to Understand Architecture
+- Scalable for Advanced HEV Models
+
+## Learning Outcomes
+
+- Understanding of HEV Architecture
+- MATLAB/Simulink Modeling Skills
+- Power Flow Analysis
+- Hybrid Vehicle Energy Management Concepts
+- Basic System Simulation Techniques
 ## 11. Analyze Efficiency Under Varying Loads and Speeds
 
 - Motor efficiency considered as 90%.
