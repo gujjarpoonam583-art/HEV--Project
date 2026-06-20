@@ -27,6 +27,21 @@ B.Tech Electrical Engineering
 - Motor Efficiency: 90%
 
 ## Power Sources
+## Project Outcome
+
+- Successfully developed a Parallel Hybrid Electric Vehicle (HEV) power flow model.
+- Combined engine power (60 kW) and motor power (80 kW).
+- Achieved total power output of 140 kW.
+- Demonstrated basic power sharing between ICE and electric motor.
+- Validated the HEV concept using MATLAB/Simulink simulation.
+
+## Skills Gained
+
+- Hybrid Electric Vehicle Fundamentals
+- MATLAB Modeling
+- Simulink Simulation
+- Power Flow Analysis
+- System Design and Documentation
 ## Assumptions
 
 - Engine Power = 60 kW
