@@ -27,6 +27,54 @@ B.Tech Electrical Engineering
 - Motor Efficiency: 90%
 
 ## Power Sources
+## 11. Analyze Efficiency Under Varying Loads and Speeds
+
+- Motor efficiency considered as 90%.
+- System performance analyzed for different operating conditions.
+- Power sharing between engine and motor improves overall efficiency.
+
+## 12. Optimize Power Distribution
+
+- Parallel HEV configuration selected for balanced performance.
+- Engine and motor work together to reduce fuel consumption.
+- Improved power delivery and vehicle efficiency achieved.
+
+## 13. Advantages
+
+- Better fuel economy.
+- Reduced emissions.
+- Improved vehicle performance.
+- Efficient utilization of engine and motor power.
+
+## 14. Applications
+
+- Passenger Hybrid Cars
+- Electric Buses
+- Commercial Hybrid Vehicles
+- Smart Transportation Systems
+
+## 15. Future Scope
+
+- Integration of regenerative braking.
+- Battery management system implementation.
+- Advanced energy management strategies.
+- AI-based power distribution optimization.
+
+## 16. References
+
+1. MATLAB Documentation
+2. Simulink Documentation
+3. Hybrid Electric Vehicle Fundamentals
+4. Electric Vehicle Technology Explained
+
+## Simulation Result
+
+- Total Power Output = 140 kW
+- Power Flow Model Successfully Simulated in MATLAB/Simulink
+
+## Conclusion
+
+The Hybrid Electric Vehicle (HEV) power flow model was successfully developed and simulated using MATLAB/Simulink. The engine power (60 kW) and motor power (80 kW) were combined to achieve a total output power of 140 kW. The model demonstrates the basic power distribution concept of a parallel hybrid electric vehicle.
 ## Project Steps
 
 1. Define Hybrid Vehicle Configuration
